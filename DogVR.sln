@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogVR", "DogVR.csproj", "{7BCE746D-44E3-2D39-5494-7EB9EBF117A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogVR.Editor", "DogVR.Editor.csproj", "{34F446B3-F875-F3E1-A6A4-AD1C5721FF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BCE746D-44E3-2D39-5494-7EB9EBF117A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCE746D-44E3-2D39-5494-7EB9EBF117A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCE746D-44E3-2D39-5494-7EB9EBF117A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCE746D-44E3-2D39-5494-7EB9EBF117A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F446B3-F875-F3E1-A6A4-AD1C5721FF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F446B3-F875-F3E1-A6A4-AD1C5721FF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F446B3-F875-F3E1-A6A4-AD1C5721FF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F446B3-F875-F3E1-A6A4-AD1C5721FF34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
